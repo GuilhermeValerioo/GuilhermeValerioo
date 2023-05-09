@@ -14,6 +14,7 @@
     An aspiring <b>RPA Developer,</b>&nbsp; <b>Machine Learning</b>&nbsp;,</b>&nbsp; <b>Data Science</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
+        </em>
 </p>
 
 <br />
