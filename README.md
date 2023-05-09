@@ -26,7 +26,7 @@
  🤙🏻 &emsp;Enjoy programming and sharing knowledge <br/><br/>
  ❤️ &emsp;Love writing code and learning new features<br/><br/>
  📩 &emsp;Reach me anytime: oguilhermevalerio@gmail.com<br/><br/>
- 💼 &emsp; Visit my about linkedin <a href="https://www.linkedin.com/in/guilhermevalerioo/"> <b> here</a>   
+ 💼 &emsp; Visit my linkedin <a href="https://www.linkedin.com/in/guilhermevalerioo/"> <b> here</a>   
 </p>
 <br/>
 <br/>
