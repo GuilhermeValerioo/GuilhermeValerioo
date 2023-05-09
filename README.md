@@ -1,16 +1,13 @@
-### Hi there 👋
+# Bem vindo ao meu GitHub
+Linguagens em que estou trabalhando atualmente: 
 
-<!--
-**GuilhermeValerioo/GuilhermeValerioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div display = "inline">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width = "50"/>
+</div>
 
-Here are some ideas to get you started:
+### Mais sobre mim em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href = "https://www.linkedin.com/in/guilhermevalerioo/">
+  <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+</a>
