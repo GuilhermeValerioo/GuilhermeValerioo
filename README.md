@@ -31,9 +31,8 @@
 </p>
 
 <br/>
-<br/>
 
-## Use To Code
+# Use To Code
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
