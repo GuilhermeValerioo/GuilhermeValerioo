@@ -1,5 +1,5 @@
 # Bem vindo ao meu GitHub
-Linguagens em que estou trabalhando atualmente: 
+Linguagens que tenho estudado atualmente: 
 
 <div display = "inline">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "50"/>
