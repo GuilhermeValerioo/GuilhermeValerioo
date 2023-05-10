@@ -23,8 +23,9 @@
 # About me
  <img align="right" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding gif" />
 <p>
- 🤙🏻 &emsp;Enjoy programming and sharing knowledge <br/><br/>
- ❤️ &emsp;Love writing code and learning new features<br/><br/>
+ 🤙🏻 &emsp;Enjoy sharing knowledge <br/><br/>
+ ❤️ &emsp;Love to develop automations with programming<br/><br/>
+ 🤖 &emsp;Always learning about machine learning and RPA<br/><br/>
  📩 &emsp;Reach me anytime: oguilhermevalerio@gmail.com<br/><br/>
  💼 &emsp; Visit my linkedin <a href="https://www.linkedin.com/in/guilhermevalerioo/"> <b> here</a>   
 </p>
