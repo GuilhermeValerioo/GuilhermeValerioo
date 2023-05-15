@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science;RPA+Developer;Control+and+Automation+Engineering&center=true&width=500&height=50"></a>
+        <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science;RPA+Developer;Control+and+Automation+Engineering&center=true&width=500&height=50">
 </p>
 
 <p align="center">
