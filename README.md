@@ -25,7 +25,7 @@
 <p>
  🤙🏻 &emsp;Enjoy sharing knowledge <br/><br/>
  ❤️ &emsp;Love to develop automations with programming<br/><br/>
- 🤖 &emsp;Always learning about machine learning and RPA<br/><br/>
+ 🤖 &emsp;Always learning about machine learning and automation<br/><br/>
  📩 &emsp;Reach me anytime: oguilhermevalerio@gmail.com<br/><br/>
  💼 &emsp; Visit my linkedin <a href="https://www.linkedin.com/in/guilhermevalerioo/"> <b> here</a>   
 </p>
