@@ -10,7 +10,7 @@
 
 <p align="center">
   <em>
-    This is me <b>Guilherme Valerio</b>, a fourth year <b>Control and Automation Engineering</b> undergraduate from <a href="https://hto.ifsp.edu.br/institucional/"> <b> Federal Institute of Education, Science and Technology</b>, Campus Hortolândia</a>.
+    This is me <b>Guilherme Valerio</b>, a fourth year <b>Control and Automation Engineering</b> undergraduate from <a href="https://hto.ifsp.edu.br/institucional/"> <b> Federal Institute of Education, Science and Technology</b>, Hortolândia</a>.
     An aspiring <b>RPA Developer,</b>&nbsp; <b>Machine Learning</b>&nbsp;,</b>&nbsp; <b>Data Science</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
