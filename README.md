@@ -21,6 +21,7 @@
 
 <!-- About Section -->
 # About me
+
  <img align="right" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding gif" />
 <p>
  🤙🏻 &emsp;Enjoy sharing knowledge <br/><br/>
@@ -44,4 +45,15 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 <br/>
+</a>
+<br/>
+<br/>
+
+# Status
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeValerioo&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeValerioo&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
