@@ -40,10 +40,11 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Apps](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-%23007BFF.svg?style=for-the-badge&logo=power-automate&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%018AFF.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <br/>
