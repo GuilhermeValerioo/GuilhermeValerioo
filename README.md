@@ -36,7 +36,7 @@
 # Use To Code
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![OfficeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=officescriptt&logoColor=white)
+![OfficeScript](https://img.shields.io/badge/office_script-%23007ACC.svg?style=for-the-badge&logo=office-scriptt&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
