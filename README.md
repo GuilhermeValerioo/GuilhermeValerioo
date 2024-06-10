@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science;RPA+Developer;Control+and+Automation+Engineering&center=true&width=500&height=50">
+        <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science;RPA+Developer;Power+Platform;Control+and+Automation+Engineering&center=true&width=500&height=50">
 </p>
 
 <p align="center">
