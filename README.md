@@ -23,13 +23,13 @@
 <img align="right" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding gif" />
 
 <p>
- ✝️ &emsp;Jesus<br/><br/>
- 🚀 &emsp;Passionate about sharing knowledge and helping others grow<br/><br/>
- ❤️ &emsp;I love creating impactful automations through programming<br/><br/>
- 🤖 &emsp;Constantly learning and exploring machine learning and robotics<br/><br/>
- 🐍 &emsp;Best language: Python<br/><br/>
- 📬 &emsp;Feel free to reach out: oguilhermevalerio@gmail.com<br/><br/>
- 🔗 &emsp;Connect with me on <a href="https://www.linkedin.com/in/guilhermevalerioo/"> <b>LinkedIn</b></a>  
+ ✝️&emsp;Jesus<br/><br/>
+ 🚀&emsp;Passionate about sharing knowledge and helping others grow<br/><br/>
+ ❤️&emsp;I love creating impactful automations through programming<br/><br/>
+ 🤖&emsp;Constantly learning and exploring machine learning and robotics<br/><br/>
+ 🐍&emsp;Best language: Python<br/><br/>
+ 📬&emsp;Feel free to reach out: oguilhermevalerio@gmail.com<br/><br/>
+ 🔗&emsp;Connect with me on <a href="https://www.linkedin.com/in/guilhermevalerioo/"> <b>LinkedIn</b></a>  
 </p>
 
 # Use To Code
