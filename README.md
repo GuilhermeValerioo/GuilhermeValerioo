@@ -12,6 +12,7 @@
   <em>
     This is me, <b>Guilherme Valerio</b>, a <b>Control and Automation Engineer</b> passionate about technology, automation, and data-driven solutions. Currently, I work at <b>Bosch Brazil</b>, developing automation solutions with <b>UiPath</b>, <b>Python</b>, APIs, and process optimization initiatives. My professional background combines engineering, software development, and business process automation. I am currently expanding my expertise in <b>Data Science</b>, <b>Machine Learning</b>, <b>Statistics</b>, and <b>Data Analytics</b>, building projects that transform data into actionable insights and business value.
   <br>
+          <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
         </em>
 </p>
